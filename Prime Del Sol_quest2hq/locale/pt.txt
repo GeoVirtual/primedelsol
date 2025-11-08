@@ -1,5 +1,11 @@
 #: locale=pt
 
+## Action
+
+### URL
+LinkBehaviour_6D2B1A5D_63DD_CE01_41D0_51CFFE2E047B.source = https://portal.iteleport.com.br/tour/novaes-engenharia-prime-del-sol/fullscreen
+LinkBehaviour_73BBF333_63D4_7E02_41C3_1EF2AEA7E861.source = https://portal.iteleport.com.br/tour/novaes-engenharia-prime-del-sol/fullscreen
+
 ## Media
 
 ### Title
